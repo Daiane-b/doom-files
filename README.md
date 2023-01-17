@@ -7,6 +7,8 @@
 | `space w h`| Navigate to window left |
 | `space w l`| Navigate to window right |
 | `v %` | Select the current function |
+| `u` | Undo
+| `Control r`| Redo
 
 # Emacs DOOM
 
