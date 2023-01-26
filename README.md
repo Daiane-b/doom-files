@@ -9,6 +9,7 @@
 | `v %` | Select the current function |
 | `u` | Undo
 | `Control r`| Redo
+| `space tab .`| Change project |
 
 # Emacs DOOM
 
