@@ -12,6 +12,7 @@
 | `v t (`| Select until ( |
 | `y a (`| Copy inside () (use `d` to cut) |
 | `:e TAB file`| Search for `file`, if not exists, it creates |
+| `, e e`| Eval current line |
 
 
 # Emacs DOOM
