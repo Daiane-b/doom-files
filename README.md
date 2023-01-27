@@ -10,6 +10,9 @@
 | `u` | Undo
 | `Control r`| Redo |
 | `v t (`| Select until ( |
+| `y a (`| Copy inside () (use `d` to cut) |
+| `:e TAB file`| Search for `file`, if not exists, it creates |
+
 
 # Emacs DOOM
 
