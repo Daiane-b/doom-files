@@ -9,6 +9,7 @@
 | `v %` | Select the current function |
 | `u` | Undo
 | `Control r`| Redo |
+| `v t (`| Select until ( |
 
 # Emacs DOOM
 
