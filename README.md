@@ -8,8 +8,7 @@
 | `space w l`| Navigate to window right |
 | `v %` | Select the current function |
 | `u` | Undo
-| `Control r`| Redo
-| `space tab .`| Change project |
+| `Control r`| Redo |
 
 # Emacs DOOM
 
