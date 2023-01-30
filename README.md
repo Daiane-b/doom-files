@@ -13,6 +13,7 @@
 | `y a (`| Copy inside () (use `d` to cut) |
 | `:e TAB file`| Search for `file`, if not exists, it creates |
 | `, e e`| Eval current line |
+| `, e b`| Eval current buffer (eval after file modification) |
 
 
 # Emacs DOOM
