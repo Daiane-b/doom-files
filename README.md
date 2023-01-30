@@ -14,7 +14,7 @@
 | `:e TAB file`| Search for `file`, if not exists, it creates |
 | `, e e`| Eval current line |
 | `, e b`| Eval current buffer (eval after file modification) |
-
+| `, r b`| Show repl window |
 
 # Emacs DOOM
 
