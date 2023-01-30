@@ -16,6 +16,7 @@
 | `, e b`| Eval current buffer (eval after file modification) |
 | `, r b`| Show repl window |
 | `space p p`| Open project |
+| `, r l`| Load file in repl |
 
 # Emacs DOOM
 
