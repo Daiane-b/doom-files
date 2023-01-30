@@ -15,6 +15,7 @@
 | `, e e`| Eval current line |
 | `, e b`| Eval current buffer (eval after file modification) |
 | `, r b`| Show repl window |
+| `space p p`| Open project |
 
 # Emacs DOOM
 
