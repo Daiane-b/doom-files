@@ -4,8 +4,8 @@
 
 | shortcut | description |
 | ---------| ------------|
-| `space w h`| Navigate to window left |
-| `space w l`| Navigate to window right |
+| `SPC w h`| Navigate to window left |
+| `SPC w l`| Navigate to window right |
 | `v %` | Select the current function |
 | `u` | Undo
 | `Control r`| Redo |
@@ -15,8 +15,10 @@
 | `, e e`| Eval current line |
 | `, e b`| Eval current buffer (eval after file modification) |
 | `, r b`| Show repl window |
-| `space p p`| Open project |
+| `SPC p p`| Open project |
 | `, r l`| Load file in repl |
+| `SPC SPC`| Load file in project |
+| `SPC /`| Load something in project |
 
 # Emacs DOOM
 
