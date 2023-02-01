@@ -19,6 +19,7 @@
 | `, r l`| Load file in repl |
 | `SPC SPC`| Load file in project |
 | `SPC /`| Load something in project |
+| `SPC f D`| Delete file |
 
 # Emacs DOOM
 
