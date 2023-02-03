@@ -16,6 +16,7 @@
 | `, e b`| Eval current buffer (eval after file modification) |
 | `, r b`| Show repl window |
 | `SPC p p`| Open project |
+| `option 1`| Change to frame 1 |
 | `, r l`| Load file in repl |
 | `SPC SPC`| Load file in project |
 | `SPC /`| Load something in project |
