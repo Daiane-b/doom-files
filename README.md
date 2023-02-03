@@ -24,6 +24,9 @@
 
 # Emacs DOOM
 
+# Lein
+After add some dependency run `lein deps` to update project
+
 ## Terminal helpers
 `zhrc`:
 ````
