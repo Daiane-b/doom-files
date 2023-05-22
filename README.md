@@ -21,7 +21,7 @@
 | `SPC SPC`| Load file in project |
 | `SPC /`| Load something in project |
 | `SPC f D`| Delete file |
-| `:s/word-to-be-replaced/word-to-replace`| Select with `v` and replace word to another word |
+| `:s/word-to-be-replaced/word-to-replace/ press ENTER`| Select with `v` and replace word to another word |
 
 # Emacs DOOM
 
