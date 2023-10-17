@@ -6,6 +6,8 @@
 | ---------| ------------|
 | `SPC w h`| Navigate to window left |
 | `SPC w l`| Navigate to window right |
+| `SPC f p`| Access your doom's config files |
+| `SPC g o o`| Open current file on Github, if text is selected, open the line |
 | `v %` | Select the current function |
 | `u` | Undo
 | `Control r`| Redo |
@@ -26,6 +28,13 @@
 | `v i "`| Select inside `"` not including `"`|
 
 # Emacs DOOM
+
+Doom uses `evil-mode` [package](https://github.com/emacs-evil/evil), it emaultes the main features of Vim
+[Official doc](https://github.com/doomemacs/doomemacs/blob/master/docs/index.org)
+
+| shortcut | description |
+| ---------| ------------|
+| `doom sync`| This synchronizes your config with Doom Emacs |
 
 # Lein
 After add some dependency run `lein deps` to update project
