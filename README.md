@@ -26,6 +26,8 @@
 | `v i "`| Select inside `"` not including `"`|
 
 # Emacs DOOM
+
+Doom uses `evil-mode` [package](https://github.com/emacs-evil/evil), it emaultes the main features of Vim
 [Official doc](https://github.com/doomemacs/doomemacs/blob/master/docs/index.org)
 
 | shortcut | description |
