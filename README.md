@@ -1,4 +1,4 @@
-# Shortcusts
+# Shortcuts
 
 ## General navigation and edition
 
