@@ -6,6 +6,8 @@
 | ---------| ------------|
 | `SPC w h`| Navigate to window left |
 | `SPC w l`| Navigate to window right |
+| `SPC f p`| Access your doom's config files |
+| `SPC g o o`| Open current file on Github, if text is selected, open the line |
 | `v %` | Select the current function |
 | `u` | Undo
 | `Control r`| Redo |
