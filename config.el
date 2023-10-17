@@ -6,8 +6,8 @@
 
 ;; Some functionality uses this to identify you, e.g. GPG configuration, email
 ;; clients, file templates and snippets. It is optional.
-(setq user-full-name "John Doe"
-      user-mail-address "john@doe.com")
+(setq user-full-name "Daiane Barbosa"
+      user-mail-address "didabc@yahoo.com.br")
 
 (after! projectile
   (add-to-list 'projectile-project-root-files-bottom-up "pubspec.yaml")
