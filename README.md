@@ -26,6 +26,11 @@
 | `v i "`| Select inside `"` not including `"`|
 
 # Emacs DOOM
+[Official doc](https://github.com/doomemacs/doomemacs/blob/master/docs/index.org)
+
+| shortcut | description |
+| ---------| ------------|
+| `doom sync`| This synchronizes your config with Doom Emacs |
 
 # Lein
 After add some dependency run `lein deps` to update project
