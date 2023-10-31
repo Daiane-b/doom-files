@@ -48,7 +48,7 @@ alias edaemon="emacs --daemon"
 alias erestart="ekill && edaemon"
 ````
 ## Jet 
-[Ref](https://github.com/ericdallo/jet.el)https://github.com/ericdallo/jet.el
+[Ref](https://github.com/ericdallo/jet.el)
 To use jet interface with emacs, select the entire file (`v G`) and type `SPC : jet` (press enter) to use jet interface.
 Select `common options` and after that, select the `actions` 
 
