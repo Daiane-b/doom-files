@@ -45,4 +45,10 @@ After add some dependency run `lein deps` to update project
 alias ec="emacsclient -nw"
 alias ekill="emacsclient -e '(kill-emacs)'"
 alias edaemon="emacs --daemon"
-alias erestart="ekill && edaemon"```
+alias erestart="ekill && edaemon"
+````
+## Jet 
+[Ref](https://github.com/ericdallo/jet.el)https://github.com/ericdallo/jet.el
+To use jet interface with emacs, select the entire file (`v G`) and type `SPC : jet` (press enter) to use jet interface.
+Select `common options` and after that, select the `actions` 
+
